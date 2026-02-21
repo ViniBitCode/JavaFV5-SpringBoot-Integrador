@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>ejercicios</groupId>
 	<artifactId>4.5-springboot-ejercicio3</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.0.1</version>
 	<name>4.5-springboot-ejercicio3</name>
 	<description>3er ejercicio de Spring. Tematica de integrador.</description>
 	<url/>
