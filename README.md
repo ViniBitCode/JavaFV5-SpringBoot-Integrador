@@ -21,5 +21,5 @@
 Como no voy a hostear la API, se me ocurrió la idea de explicarlo con videos... así que en cuanto haga el video lo pongo por acá!
 
 # **Siguiente proyecto:**  
-❇️ | Ya el siguiente paso va a ser una aplicación fullstack con Angular y una buena API, que no esté incompleta como las 2 anteriores!   
-Dejo link al proyecto N°6: [JavaFV6-]()
+❇️ | Ya el siguiente paso va a ser una aplicación fullstack con Angular, muy probablemente sea para repasar front con Angular y converja en un login!   
+Dejo link al proyecto N°6: [AngularFV1-Primer-Proyecto](https://github.com/ViniBitCode/AngularFV1-Primer-Proyecto)
